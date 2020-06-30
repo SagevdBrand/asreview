@@ -156,7 +156,7 @@ compatibility with ASReview.
 | **Rayyan**      | Not supported |                | Supported    |              |
 +-----------------+---------------+----------------+--------------+--------------+
 |**Robotreviewer**|               |                |              |              |
-|\**		  |		  |                |              |              |		
+|\**		            |           		  |                |              |              |		
 +-----------------+---------------+----------------+--------------+--------------+
 
 - Supported: The data can be exported from the search engine and imported in ASReview using this extension.
