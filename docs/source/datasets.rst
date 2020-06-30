@@ -159,9 +159,9 @@ compatibility with ASReview.
 |\**		  |    		  |                |              |              |		
 +-----------------+---------------+----------------+--------------+--------------+
 
-- Supported: The data can be exported from the search engine and imported in ASReview using this extension.
+- Supported: The data can be exported from the software and imported in ASReview using this extension.
 - Not supported: The exported data can not be imported in ASReview using this extension.
-- (empty): The data cannot be exported from the search engine using this extension.
+- (empty): The data cannot be exported from the software using this extension.
 
 \* When using Covidence it is possible to export articles in .ris formats for different citation managers,
 such as Endnote, Mendeley, Refworks and Zotero. All of these are compatible with ASReview.
