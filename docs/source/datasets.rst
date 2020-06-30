@@ -132,11 +132,12 @@ try the following: import the search engine file first into one of the
 citation managers mentioned in the previous part, and export it again into a
 format that is accepted by ASReview.
 
+
 Systematic review software
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 There are several software packages available for systematic reviewing. Some
-of them use machine learning,  while other focus on screening and management.
+of them use machine learning, while other focus on screening and management.
 The overview below shows an overview of alternative software programs and the
 compatibility with ASReview.
 
@@ -144,12 +145,28 @@ compatibility with ASReview.
 |                 | **.ris**      | **.tsv**       | **.csv**     | **.xlsx**    |
 |                 |               |                |              |              |
 +-----------------+---------------+----------------+--------------+--------------+
+| **Abstrackr**   | Supported     |                | Supported    |              |
++-----------------+---------------+----------------+--------------+--------------+
+| **Covidence**\* | Supported     |                | Supported    |              |
++-----------------+---------------+----------------+--------------+--------------+
+| **Distiller**   |               |                |              |              |
++-----------------+---------------+----------------+--------------+--------------+
+|**EPPI-reviewer**| Supported     |                |              |Not supported |
++-----------------+---------------+----------------+--------------+--------------+
 | **Rayyan**      | Not supported |                | Supported    |              |
++-----------------+---------------+----------------+--------------+--------------+
+|**Robotreviewer**|               |                |              |              |
+|\**		  |		  |                |              |              |		
 +-----------------+---------------+----------------+--------------+--------------+
 
 - Supported: The data can be exported from the search engine and imported in ASReview using this extension.
 - Not supported: The exported data can not be imported in ASReview using this extension.
 - (empty): The data cannot be exported from the search engine using this extension.
+
+\* When using Covidence it is possible to export articles in .ris formats for different citation managers,
+such as Endnote, Mendeley, Refworks and Zotero. All of these are compatible with ASReview.
+
+\** Robotreviewer does not provide exports suitable for asreview, since it supports evidence synthesis.
 
 Demonstration datasets
 ----------------------
